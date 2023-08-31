@@ -3,7 +3,7 @@ This repository contains the results report and analysis of experiments conducte
 
 The goal was to simulate various Bluetooth Mesh network scenarios and analyze the performance metrics recorded by BMSim codes.
 
-I specified a network topology with 49 nodes, with all nodes acting as both transmitters and receivers. Key configuration settings included a 30 ms scan window, a 30 ms scan interval, 0 retransmits for relays, 0 retransmits for endpoint packets, a packet reception ratio target of 100%, and a communication range of 11.6m. The experiments were carried out using BMSim.
+I specified a network with 49 nodes, with all nodes acting as both transmitters and receivers. Key configuration settings included a 30 ms scan window, a 30 ms scan interval, 0 retransmits for relays, 0 retransmits for endpoint packets, a packet reception ratio target of 100%, and a communication range of 11.6m. The experiments were carried out using BMSim.
 
 Three different network scenarios were modeled for both grid and random topologies. For each scenario, the logs recorded by BMSim were processed to extract critical performance metrics like packet delivery ratio (PDR), average latency, and average energy consumption per node. Detailed node-level logs were also analyzed to study packet relay behavior.
 
