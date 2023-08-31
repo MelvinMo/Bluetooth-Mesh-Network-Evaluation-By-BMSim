@@ -1,5 +1,5 @@
 # Bluetooth-Mesh-Network-Evaluation-By-BMSim
-This repository contains the results report and analysis of experiments conducted using the BMSim tool, An Event-Driven Simulator for Performance Evaluation of Bluetooth Mesh Networks, which was originally available on [this GitHub page](https://github.com/BMSimulator/BMSim)."
+This repository contains the results report and analysis of experiments conducted using the BMSim tool, An Event-Driven Simulator for Performance Evaluation of Bluetooth Mesh Networks, which was originally available on [this GitHub page](https://github.com/BMSimulator/BMSim).
 
 The goal was to simulate various Bluetooth Low Energy network scenarios and analyze the performance metrics recorded by BMSim codes.
 
